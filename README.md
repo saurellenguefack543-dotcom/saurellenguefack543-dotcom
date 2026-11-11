@@ -1,18 +1,22 @@
 # Saurelle Nguefack
 
-Étudiante en Bachelor Administrateur d'Infrastructures Sécurisées (RNCP niveau 6) à Green Up Academy, en Île-de-France, depuis septembre 2025.
+Étudiante à Green Up Academy, je prépare le titre de Technicienne Supérieure Systèmes et Réseaux (TSSR) depuis octobre 2026. Je suis également présidente du BDE de mon école.
 
 Je recherche une alternance de 24 mois, au rythme d'une semaine en cours et de trois semaines en entreprise, dans les domaines des systèmes, des réseaux et de la cybersécurité, en Île-de-France.
 
-Je m'intéresse aussi à la cybersécurité et au piratage éthique, au design et à l'animation 3D, ainsi qu'à l'entrepreneuriat numérique.
+Mon objectif est de devenir ingénieure en cybersécurité.
+
+Je m'intéresse aussi au piratage éthique, au design et à l'animation 3D, ainsi qu'à l'entrepreneuriat numérique.
 
 ---
 
-Student in a Bachelor's programme in Secure Infrastructure Administration (RNCP level 6) at Green Up Academy, in the Île-de-France region, since September 2025.
+Student at Green Up Academy, I have been preparing the Technicienne Supérieure Systèmes et Réseaux (TSSR) qualification since October 2026. I am also president of my school's student union (BDE).
 
 I am looking for a 24-month work-study placement (one week at school, three weeks in the company) in systems, networks and cybersecurity, in Île-de-France.
 
-I am also interested in cybersecurity and ethical hacking, 3D design and animation, and digital entrepreneurship.
+My goal is to become a cybersecurity engineer.
+
+I am also interested in ethical hacking, 3D design and animation, and digital entrepreneurship.
 
 ## Compétences / Skills
 
@@ -44,9 +48,15 @@ Installation de dispositifs de vidéosurveillance et de biométrie, surveillance
 
 Internship in networks and security: CCTV and biometric devices, remote site security monitoring, Nagios supervision, and MikroTik router migration.
 
+## Engagement
+
+Présidente du BDE de Green Up Academy.
+
+President of the Green Up Academy student union.
+
 ## Formation et certifications / Education and certifications
 
-- Bachelor Administrateur d'Infrastructures Sécurisées (RNCP niveau 6), Green Up Academy, Île-de-France — depuis septembre 2025
+- Titre TSSR (Technicien Supérieur Systèmes et Réseaux), Green Up Academy, Île-de-France, depuis octobre 2026
 - DUT Réseaux et Télécommunications, IUT Fotso Victor, Cameroun — 2023-2024
 - Security Operations and Defense Analyst, en ligne — juin 2026
 - CCNA: Introduction to Networks, Cisco Networking Academy (70 h) — octobre 2026
@@ -59,13 +69,12 @@ I am currently contributing to [odoc](https://github.com/ocaml/odoc), the OCaml 
 
 ## Projets sélectionnés / Selected projects
 
-- [Portfolio de Steve Nenkam](https://github.com/saurellenguefack543-dotcom/steve-nenkam-portfolio) — site vitrine réalisé pour un client. Version en ligne : [steve-nenkam-portfolio.vercel.app](https://steve-nenkam-portfolio.vercel.app)
-- [Site de l'artiste Valentino](https://github.com/saurellenguefack543-dotcom/mr-valentino-site) — site web pour un artiste. Version en ligne : [valentino-officiel.netlify.app](https://valentino-officiel.netlify.app/)
-- [Contrôle continu de développement web](https://github.com/saurellenguefack543-dotcom/CC_DevWeb_nguefack_saurelle) — projet de cours, Bachelor 1, Green Up Academy. Version en ligne : [cc-dev-web-nguefack-saurelle.vercel.app](https://cc-dev-web-nguefack-saurelle.vercel.app/)
+- [Portfolio de Steve Nenkam](https://github.com/saurellenguefack543-dotcom/steve-nenkam-portfolio) — site vitrine réalisé pour un professionnel des réseaux et de la cybersécurité. Réalisé en HTML, Tailwind CSS, Font Awesome et JavaScript. Version en ligne : [steve-nenkam-portfolio.vercel.app](https://steve-nenkam-portfolio.vercel.app)
+- [Site de l'artiste Mr Valentyno](https://github.com/saurellenguefack543-dotcom/mr-valentino-site) — site web pour un artiste, avec lecteur musical et formulaire de contact. Réalisé en HTML, Tailwind CSS, Font Awesome, l'API YouTube et EmailJS. Version en ligne : [valentino-officiel.netlify.app](https://valentino-officiel.netlify.app/)
+- [Contrôle continu de développement web](https://github.com/saurellenguefack543-dotcom/CC_DevWeb_nguefack_saurelle) — projet de cours à Green Up Academy : site vitrine de NeuralAI, une startup fictive d'intelligence artificielle. Réalisé en HTML, CSS et JavaScript. Version en ligne : [cc-dev-web-nguefack-saurelle.vercel.app](https://cc-dev-web-nguefack-saurelle.vercel.app/)
 
 Un projet personnel autour d'outils numériques pour les cabinets de santé (CareAssist) est en pause pour le moment.
 
 ## Contact
 
 - Email : [saurellenguefack543@gmail.com](mailto:saurellenguefack543@gmail.com)
-- LinkedIn : [linkedin.com/in/digitalisationdesentreprises](https://www.linkedin.com/in/digitalisationdesentreprises)
