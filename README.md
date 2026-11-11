@@ -18,6 +18,10 @@ My goal is to become a cybersecurity engineer.
 
 I am also interested in ethical hacking, 3D design and animation, and digital entrepreneurship.
 
+## CV
+
+[CV en français (PDF)](cv/CV-Saurelle-Nguefack-FR.pdf) — [CV in English (PDF)](cv/CV-Saurelle-Nguefack-EN.pdf)
+
 ## Compétences / Skills
 
 **Systèmes, réseaux et sécurité / Systems, networks and security**  
