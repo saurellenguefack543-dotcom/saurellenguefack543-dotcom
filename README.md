@@ -2,7 +2,7 @@
 
 Étudiante à Green Up Academy, je prépare le titre de Technicienne Supérieure Systèmes et Réseaux (TSSR) depuis octobre 2026. Je suis également présidente du BDE de mon école.
 
-Je recherche une alternance de 24 mois, au rythme d'une semaine en cours et de trois semaines en entreprise, dans les domaines des systèmes, des réseaux et de la cybersécurité, en Île-de-France.
+Je recherche une alternance au rythme de 2 semaines en entreprise / 2 semaines à l'école, disponible immédiatement, dans les domaines des systèmes, des réseaux et de la cybersécurité, en Île-de-France.
 
 Mon objectif est de devenir ingénieure en cybersécurité.
 
@@ -12,7 +12,7 @@ Je m'intéresse aussi au piratage éthique, au design et à l'animation 3D, ains
 
 Student at Green Up Academy, I have been preparing the Technicienne Supérieure Systèmes et Réseaux (TSSR) qualification since October 2026. I am also president of my school's student union (BDE).
 
-I am looking for a 24-month work-study placement (one week at school, three weeks in the company) in systems, networks and cybersecurity, in Île-de-France.
+I am looking for a work-study placement (alternance), 2 weeks in company / 2 weeks at school, available immediately, in systems, networks and cybersecurity, in Île-de-France.
 
 My goal is to become a cybersecurity engineer.
 
