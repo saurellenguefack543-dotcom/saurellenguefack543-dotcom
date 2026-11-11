@@ -67,6 +67,10 @@ Je contribue actuellement à [odoc](https://github.com/ocaml/odoc), le générat
 
 I am currently contributing to [odoc](https://github.com/ocaml/odoc), the OCaml documentation generator. My first contribution, still in progress, adds a default favicon to the HTML documentation ([issue #1160](https://github.com/ocaml/odoc/issues/1160), [working branch](https://github.com/saurellenguefack543-dotcom/odoc/tree/html-favicon)). This work is part of an open-source contribution course at Green Up Academy, supervised by Basile Starynkevitch.
 
+## Apprentissage / Learning
+
+- [Journal TSSR](https://github.com/saurellenguefack543-dotcom/journal-tssr) — mon carnet de bord de formation : notes de TP, adressage IP, VLAN, dépannage Linux et veille cybersécurité. / My TSSR learning log: lab notes, IP addressing, VLANs, Linux troubleshooting and cybersecurity watch.
+
 ## Projets sélectionnés / Selected projects
 
 - [Portfolio de Steve Nenkam](https://github.com/saurellenguefack543-dotcom/steve-nenkam-portfolio) — site vitrine réalisé pour un professionnel des réseaux et de la cybersécurité. Réalisé en HTML, Tailwind CSS, Font Awesome et JavaScript. Version en ligne : [steve-nenkam-portfolio.vercel.app](https://steve-nenkam-portfolio.vercel.app)
