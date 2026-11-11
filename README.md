@@ -69,7 +69,7 @@ I am currently contributing to [odoc](https://github.com/ocaml/odoc), the OCaml 
 
 ## Apprentissage / Learning
 
-- [Journal TSSR](https://github.com/saurellenguefack543-dotcom/journal-tssr) — mon carnet de bord de formation : notes de TP, adressage IP, VLAN, dépannage Linux et veille cybersécurité. / My TSSR learning log: lab notes, IP addressing, VLANs, Linux troubleshooting and cybersecurity watch.
+- [Journal TSSR](https://saurellenguefack543-dotcom.github.io/journal-tssr/) — mon journal d'apprentissage : ce que je retiens chaque jour en systèmes, réseaux et cybersécurité. Les notes de TP restent aussi sur [GitHub](https://github.com/saurellenguefack543-dotcom/journal-tssr). / My learning journal: what I take away each day in systems, networks and cybersecurity. Lab notes are also on [GitHub](https://github.com/saurellenguefack543-dotcom/journal-tssr).
 
 ## Projets sélectionnés / Selected projects
 
